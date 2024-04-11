@@ -1,0 +1,157 @@
+.features-users {
+    position: relative;
+    top: 450px;
+    left: 1px;
+}
+
+.feature-notifications-Btn {
+    width: 330px;
+    height: 50px;
+    background-color: #27c6f4;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.feature-notifications-Btn:hover {
+    background-color: #ffffff;
+    color: #27c6f4;
+    border: 2px solid #27c6f4;
+}
+
+.feature-notifications-Heading {
+    position: relative;
+    top: 60px;
+    right: 80px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif
+}
+
+.features-control,
+.features-Dot {
+    color: #27c6f4;
+}
+
+.features-control-details {
+    position: relative;
+    right: 480px;
+    top: 70px;
+}
+
+.features-incedent {}
+
+.features-incedent-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.features-incedent-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+
+.features-window-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    bottom: 110px;
+}
+
+.features-window-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+    position: relative;
+    bottom: 110px;
+}
+
+.features-rootcauses {}
+
+.features-rootcauses-Detail {
+    position: relative;
+    bottom: 200px;
+    right: 40px;
+}
+
+.features-rootcauses-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 485px;
+    bottom: 297px;
+}
+
+.features-rootcauses-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+    position: relative;
+    left: 490px;
+    bottom: 300px;
+}
+
+.features-Custom {
+    margin-top: 40px;
+}
+
+.features-Custom-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    left: 500px;
+    bottom: 268px;
+}
+
+.features-Custom-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+    position: relative;
+    left: 495px;
+    bottom: 270px;
+}
+
+.features-response {
+    position: relative;
+    bottom: 480px;
+    left: 430px;
+}
+
+.features-window-timings {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    top: 324px;
+}
+
+.features-window-controlling {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+    position: relative;
+    top: 324px;
+}
+
+.features-Location {
+    margin-top: 38px;
+    position: relative;
+    left: 430px;
+    bottom: 259px;
+}
+
+.features-Location-Heading {
+    font-size: 28px;
+    font-family: "Roboto", sans-serif;
+}
+
+.features-Location-Text {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+.features-users.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

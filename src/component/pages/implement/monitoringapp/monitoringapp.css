@@ -1,0 +1,54 @@
+.Monitoringapp{
+    width: 100%;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 5rem 7rem;
+    background-color: black;
+    position: relative;
+    bottom: 700px;
+}
+.Monitoringapp-container{
+    display: flex;
+    position: relative;
+    right: 114px;
+}
+.carousel{
+    padding-left: 2rem;
+}
+.Monitoringapp-slider{
+    margin-bottom: 5rem;
+    padding: 1rem;
+}
+.Monitoringapp-slider h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.Monitoringapp-slider p{
+    font-size: 22px;
+    font-weight: bolder;
+}
+.Monitoringapp-slider a{
+    text-decoration: none;
+}
+.Monitoringapp-item1{
+    display: flex;
+}
+.Monitoringappimg-right, .Monitoringappimg-left{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+}
+.Monitoringappimg-right img, .Monitoringappimg-left img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.carousel-indicators [data-bs-target]{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}

@@ -1,0 +1,82 @@
+.monitorpresence {
+    position: relative;
+    top: 230px;
+    left: 150px;
+    background-color: rgb(0, 255, 0);
+    width: 530px;
+    height: 530px;
+    border-radius: 50%;
+}
+
+.monitorpresence-Right {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.monitorpresence-presence {
+    height: 490px;
+    position: relative;
+    left: 38px;
+    top: 120px;
+    border-radius: 10px;
+    background-color: white;
+    width: 680px;
+}
+
+.monitorpresence-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.monitorpresence-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 45px;
+    line-height: 65px;
+    margin-left: -30px;
+    top: -90px;
+    position: relative;
+}
+
+.monitorpresence-Dot {
+    color: rgb(38, 170, 38);
+    position: relative;
+    bottom: 21px;
+}
+
+.monitorpresence-Paragraph {
+    font-size: 23px;
+    color: gray;
+    margin-left: 80px;
+    position: relative;
+    bottom: 94px;
+    margin-right: 30px;
+}
+.monitorpresence-or{
+    
+    color: rgb(38, 170, 38);
+    position: relative;
+    margin-right: -15px;
+    top: -10px;
+    
+
+}
+.monitorpresence-absence{
+    color: rgb(38, 170, 38);
+    margin-left: 77px;
+    position: relative;
+    top: -15px; 
+}
+.monitorpresence-any{
+    position: relative;
+    top: -17px;
+}
+.monitorpresence-pharse{
+    position: relative;
+    margin-left: 115px;
+    top: -20px;
+}
+.monitorpresence-presence.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

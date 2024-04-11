@@ -1,0 +1,120 @@
+.statuspage-All {
+    position: relative;
+    top: 1500px;
+}
+
+.statuspage-Page {
+    position: relative;
+    bottom: 1100px;
+    left: 150px;
+}
+
+.statuspage-Heading {
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    line-height: 70px;
+    position: relative;
+    right: 540px;
+    bottom: 400px;
+}
+
+.statuspage-text {
+    color: rgb(38, 170, 38);
+}
+
+.statspages-Text {
+    color: gray;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    right: 540px;
+    bottom: 400px;
+}
+
+.statuspage-Buttons {
+    display: flex;
+    position: relative;
+    right: -35px;
+    bottom: 400px;
+}
+
+.statuspage-stats {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.statuspage-OR {
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.statuspage-Explore {
+    margin-left: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.statuspage-Page-Image {
+    position: relative;
+    bottom: 815px;
+    left: 350px;
+}
+
+.statuspage-Page-Image2 {
+    height: 451px;
+    border-radius: 10px;
+    width: 530px;
+    position: relative;
+    bottom: 1177px;
+    background-color: white;
+}
+
+.statuspage-team {
+    position: relative;
+    left: -387px;
+    bottom: 1899px;
+}
+
+.statuspage-SubusersImage {
+    height: 500px;
+    width: 500px;
+}
+
+.statuspage-TeamMembers {
+    position: relative;
+    left: 610px;
+    bottom: 450px;
+}
+
+.statuspage-Title {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+
+}
+
+.statuspage-Member-Span {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    color: rgb(38, 170, 38);
+    font-weight: 600
+}
+
+.statuspage-TeamMembers-Text {
+    font-size: 23px;
+    font-family: "Roboto", sans-serif;
+}
+.statuspage-Page-Image2.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }
+  .statuspage-SubusersImage.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

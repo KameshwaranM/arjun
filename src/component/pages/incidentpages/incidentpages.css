@@ -1,0 +1,120 @@
+.incidentpages-All {
+    position: relative;
+    top: 1500px;
+}
+
+.incidentpages-Page {
+    position: relative;
+    bottom: 1100px;
+    left: 150px;
+}
+
+.incidentpages-Heading {
+    font-size: 60px;
+    font-family: "Roboto", sans-serif;
+    line-height: 70px;
+    position: relative;
+    right: 540px;
+    bottom: 400px;
+}
+
+.incidentpages-text {
+    color: rgb(38, 170, 38);
+}
+
+.incidentpages-Text {
+    color: gray;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    right: 540px;
+    bottom: 400px;
+}
+
+.incidentpages-Buttons {
+    display: flex;
+    position: relative;
+    right: -35px;
+    bottom: 400px;
+}
+
+.incidentpages-stats {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.incidentpages-OR {
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.incidentpages-Explore {
+    margin-left: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(38, 170, 38);
+    cursor: pointer;
+}
+
+.incidentpages-Page-Image {
+    position: relative;
+    bottom: 815px;
+    left: 350px;
+}
+
+.incidentpages-Page-Image2 {
+    height: 451px;
+    border-radius: 10px;
+    width: 530px;
+    position: relative;
+    bottom: 1177px;
+    background-color: white;
+}
+
+.incidentpages-team {
+    position: relative;
+    left: -387px;
+    bottom: 1899px;
+}
+
+.incidentpages-SubusersImage {
+    height: 500px;
+    width: 500px;
+}
+
+.incidentpages-TeamMembers {
+    position: relative;
+    left: 610px;
+    bottom: 450px;
+}
+
+.incidentpages-Title {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+
+}
+
+.incidentpages-Member-Span {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    color: rgb(38, 170, 38);
+    font-weight: 600
+}
+
+.incidentpages-TeamMembers-Text {
+    font-size: 23px;
+    font-family: "Roboto", sans-serif;
+}
+.incidentpages-Page-Image2.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }
+  .incidentpages-SubusersImage.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

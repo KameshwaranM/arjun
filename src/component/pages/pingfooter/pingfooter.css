@@ -1,0 +1,139 @@
+.pingfooter-monitor {
+    background-color: #001d36;
+    height: 610px;
+    position: relative;
+    bottom: 600px;
+    width: 1800px;
+    right: 9px;
+}
+
+.pingfooter-Left {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.pingfooter-CompanyLogo {
+    height: 60px;
+    position: relative;
+    right: 865px;
+    bottom: 10px;
+}
+
+.pingfooter-Company-Title {
+    position: absolute;
+    top: -25px;
+    left: 70px;
+    font-family: "Roboto", sans-serif;
+    color: whitesmoke;
+    font-size: 35px;
+}
+
+.pingfooter-Company-Notified {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    right: 752px;
+    bottom: 10px;
+}
+
+.pingfooter-Company-Address {
+    color: white;
+    line-height: 25px;
+    font-family: "Roboto", sans-serif;
+    position: relative;
+    right: 735px;
+    bottom: 10px;
+}
+
+.pingfooter-Social-icon {
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px;
+    position: relative;
+    right: 775px;
+    bottom: 10px;
+}
+
+.pingfooter-TwitterIcon {
+    position: relative;
+    left: 20px;
+}
+
+.pingfooter-LinkedinIcon {
+    position: relative;
+    left: 40px;
+}
+
+.pingfooter-DiscordIcon {
+    position: relative;
+    left: 60px;
+}
+
+.pingfooter-TwitterIcon:hover,
+.pingfooter-LinkedinIcon:hover,
+.pingfooter-FacebookIcon:hover,
+.pingfooter-DiscordIcon:hover {
+    color: gray;
+    cursor: pointer;
+}
+
+.pingfooter-Right {
+    position: relative;
+    left: -190px;
+    bottom: 130px;
+}
+
+.pingfooter-Monitoring-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.pingfooter-Monitoring-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.pingfooter-Company {
+    position: relative;
+    left: 300px;
+    bottom: 360px;
+}
+
+.pingfooter-company-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.pingfooter-company-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.pingfooter-Resources {
+    position: relative;
+    bottom: 639px;
+    left: 600px;
+}
+
+.pingfooter-Resources-Heading {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+}
+
+.pingfooter-Resources-List {
+    position: relative;
+    color: #ffffff;
+    list-style-type: none;
+    line-height: 40px;
+    right: 35px;
+    font-family: "Roboto", sans-serif;
+}

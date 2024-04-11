@@ -1,0 +1,128 @@
+.App {
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+body {
+    overflow-x: hidden;
+    background-color: whitesmoke;
+
+}
+
+.ping {
+    position: relative;
+    background-color: #001d36;
+    top: 50px;
+    width: 1800px;
+    height: 800px;
+    right: 10px;
+
+}
+
+.ping-Leading {
+    position: relative;
+    right: 590px;
+    top: 225px;
+    font-size: 50px;
+    color: #ffffff;
+    line-height: 70px;
+    font-family: "Roboto", sans-serif;
+}
+
+.ping-span {
+    color: #27c6f4;
+    margin-left: 300px;
+}
+
+.ping-Dot {
+    color: #27c6f4;
+}
+
+.ping-FreeContent {
+    position: relative;
+    top: 232px;
+    margin-right: 450px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+
+.ping-Total {
+    position: relative;
+    right: 590px;
+    top: 35px;
+}
+
+.ping-Button {
+    position: relative;
+    top: 300px;
+    right: 590px;
+    height: 50px;
+    width: 300px;
+    font-size: 17px;
+    background-color: #27c6f4;
+    border-radius: 50px;
+    border: none;
+    color: #0c0303;
+    cursor: pointer;
+}
+
+
+
+.ping-Company-Images {
+    position: relative;
+    top: 550px;
+    right: 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.ping-Company {}
+
+.ping-godaddylogo {
+    width: 160px;
+    position: relative;
+    bottom: 20px;
+    right: 270px;
+
+}
+
+.ping-nasalogo {
+    width: 120px;
+    position: relative;
+    right: 150px;
+}
+
+.ping-moodyslogo {
+    width: 150px;
+    height: 40px;
+    position: relative;
+    right: 50px;
+    bottom: 19px;
+}
+
+.ping-ibmlogo {
+    width: 130px;
+    position: relative;
+    left: 100px;
+    bottom: 12px;
+    height: 40px;
+}
+
+.ping-expedialogo {
+    width: 160px;
+    height: 60px;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
+}
+.ping-Totalfree{
+    color: #27c6f4;   
+}
+.ping-Content{
+    font-size: 27px;
+    position: relative;
+    top: 300px;
+    right: 570px;
+    color: white;
+}

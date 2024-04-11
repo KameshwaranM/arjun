@@ -1,0 +1,83 @@
+.monitordevice {
+    position: relative;
+    top: 230px;
+    left: calc(100vw - 680px);
+    background-color: rgb(0, 255, 0);
+    width: 530px;
+    height: 530px;
+    border-radius: 50%;
+}
+
+.monitordevice-Right {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.monitordevice-presence {
+    height: 335px;
+    position: relative;
+    left: -880px;
+    top: 120px;
+    border-radius: 10px;
+    background-color: white;
+    width: 600px;
+    padding: 40px;
+}
+
+.monitordevice-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.monitordevice-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 45px;
+    line-height: 65px;
+    margin-left: -2877px;
+    top: 425px;
+    position: relative;
+}
+
+.monitordevice-Dot {
+    color: rgb(38, 170, 38);
+    position: relative;
+    bottom: 21px;
+}
+
+.monitordevice-Paragraph {
+    font-size: 23px;
+    color: gray;
+    margin-left: -2800px;
+    position: relative;
+    top: 450px;
+    margin-right: 30px;
+}
+.monitordevice-or{
+    
+    color: rgb(38, 170, 38);
+    position: relative;
+    margin-right: -15px;
+    top: 2px;
+    
+
+}
+.monitordevice-absence{
+    margin-left: -40px;
+    position: relative;
+    top: 2px;
+    left: 52px;
+}
+.monitordevice-any{
+    position: relative;
+    top: -17px;
+}
+.monitordevice-pharse{
+    position: relative;
+    margin-left: 115px;
+    top: -20px;
+}
+.monitordevice-presence.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

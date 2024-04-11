@@ -1,0 +1,83 @@
+.monitorserver {
+    position: relative;
+    top: 230px;
+    left: 150px;
+    background-color: rgb(0, 255, 0);
+    width: 530px;
+    height: 530px;
+    border-radius: 50%;
+}
+
+.monitorserver-Right {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.monitorserver-presence {
+    height: 335px;
+    position: relative;
+    left: 38px;
+    top: 120px;
+    border-radius: 10px;
+    background-color: white;
+    width: 600px;
+    padding: 40px;
+}
+
+.monitorserver-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.monitorserver-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 45px;
+    line-height: 65px;
+    margin-left: -30px;
+    top: 45px;
+    position: relative;
+}
+
+.monitorserver-Dot {
+    color: rgb(38, 170, 38);
+    position: relative;
+    bottom: 21px;
+}
+
+.monitorserver-Paragraph {
+    font-size: 23px;
+    color: gray;
+    margin-left: 80px;
+    position: relative;
+    bottom: -40px;
+    margin-right: 30px;
+}
+.monitorserver-or{
+    
+    color: rgb(38, 170, 38);
+    position: relative;
+    margin-right: -15px;
+    top: 2px;
+    
+
+}
+.monitorserver-absence{
+    color: rgb(38, 170, 38);
+    margin-left: -40px;
+    position: relative;
+    top: -15px; 
+}
+.monitorserver-any{
+    position: relative;
+    top: -17px;
+}
+.monitorserver-pharse{
+    position: relative;
+    margin-left: 115px;
+    top: -20px;
+}
+.monitorserver-presence.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

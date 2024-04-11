@@ -1,0 +1,66 @@
+import React from 'react'
+import './pinginmonitor.css';
+import 'animate.css';
+import ssl from '../../Assets/ssl-monitoring.svg'
+import port from '../../Assets/port-monitoring.svg'
+import cron from '../../Assets/cron-job-monitoring.svg'
+import ping from '../../Assets/ping-monitoring.svg'
+import domain from '../../Assets/domain-monitoring.svg'
+import website from '../../Assets/website-monitoring.svg'
+
+const Pinginmonitor = () => {
+  return (
+    <div className='pinginmonitor animate__animated animate__fadeInUp animate__delay-1s text-light'>
+        <div className="pinginmonitor-container">
+            <h2>All you really care about <br /><span>monitored</span> in one place.</h2>
+            <div className="pinginmonitor-cards">
+                <div className="card-pingin-card1">
+                    <a href="">
+                        <img src={ssl} alt="" />
+                        <h3>SSL monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+                <div className="card-pingin-card2">
+                    <a href="">
+                        <img src={port} alt="" />
+                        <h3>Port monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+                <div className="card-pingin-card3">
+                    <a href="">
+                        <img src={cron} alt="" />
+                        <h3>Cron job monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+                <div className="card-pingin-card5">
+                    <a href="">
+                        <img src={ping} alt="" />
+                        <h3>Ping monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+                <div className="card-pingin-card6">
+                    <a href="">
+                        <img src={domain} alt="" />
+                        <h3>Domain expiration monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+                <div className="card-pingin-card7">
+                    <a href="">
+                        <img src={website} alt="" />
+                        <h3>Website monitoring</h3>
+                        <span>Learn more</span>
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+  )
+}
+
+export default Pinginmonitor;

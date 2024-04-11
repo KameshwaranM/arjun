@@ -1,0 +1,61 @@
+.account-monitor {
+    position: relative;
+    bottom: 280px;
+    text-align: center;
+    left: 20px;
+}
+
+.accountmonitor-heading {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+}
+
+.accountmonitor-Now {
+    color: rgb(38, 170, 38);
+}
+
+.accountmonitor-Button {
+    height: 50px;
+    width: 350px;
+    font-size: 17px;
+    background-color: rgb(38, 170, 38);
+    border: none;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.accountmonitor-CreditCard {
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    color: gray;
+}
+
+.accountmonitor-GoogleStoreImage {
+    height: 50px;
+    cursor: pointer;
+}
+
+.accountmonitor-AppleStoreImage {
+    height: 50px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.accountmonitor-Available {
+    margin-top: 50px;
+}
+
+.accountmonitor-AvailableStore {
+    font-family: "Roboto", sans-serif;
+    color: gray;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.accountmonitor-Para{
+    position: relative;
+    bottom: 400px;
+}

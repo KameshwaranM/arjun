@@ -1,0 +1,44 @@
+.pingnotification{
+    width: 100%;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: var(--bg-primary);
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 5rem 7rem;
+    background-color: black;
+    position: relative;
+    bottom: 700px;
+}
+.pingnotification-container{
+    display: flex;
+    position: relative;
+    right: 114px;
+}
+.carousel{
+    padding-left: 2rem;
+}
+.pingnotification-slider{
+    margin-bottom: 5rem;
+    padding: 1rem;
+}
+.pingnotification-slider h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.pingnotification-slider p{
+    font-size: 22px;
+    font-weight: bolder;
+}
+.pingnotification-slider a{
+    text-decoration: none;
+}
+.pingnotification-item1{
+    display: flex;
+}
+
+.carousel-indicators [data-bs-target]{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}

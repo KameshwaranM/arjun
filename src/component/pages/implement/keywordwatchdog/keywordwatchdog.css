@@ -1,0 +1,77 @@
+.keywordwatchdog {
+    position: relative;
+    top: 330px;
+    left: 150px;
+    background-color: rgb(0, 255, 0);
+    width: 530px;
+    height: 530px;
+    border-radius: 50%;
+}
+
+.keywordwatchdog-Left {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.keywordwatchdog-watchdog {
+    height: 460px;
+    position: relative;
+    left: 38px;
+    top: 120px;
+    border-radius: 10px;
+    background-color: white;
+    width: 680px;
+}
+
+.keywordwatchdog-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.keywordwatchdog-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 45px;
+    line-height: 65px;
+    margin-left: 71px;
+    top: -53px;
+    position: relative;
+}
+
+.keywordwatchdog-Dot {
+    color: rgb(38, 170, 38);
+    position: relative;
+    bottom: 14px;
+    right: 217px;
+}
+
+.keywordwatchdog-Paragraph {
+    font-size: 24px;
+    color: gray;
+    margin-left: 80px;
+    position: relative;
+    bottom: 30px;
+    margin-right: 30px;
+}
+.keywordwatchdog-dog{
+    
+    color: rgb(38, 170, 38);
+    position: relative;
+    margin-right: -15px;
+    top: -1px;
+    
+
+}
+.keywordwatchdog-forany{
+    margin-left: 20px;
+    position: relative;
+}
+.keywordwatchdog-sites{
+    position: relative;
+    top: -12px;
+    margin-right: 220px;
+}
+.keywordwatchdog-watchdog.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

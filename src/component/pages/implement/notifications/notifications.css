@@ -1,0 +1,114 @@
+.notification {
+    position: relative;
+    top: 400px;
+    left: 150px;
+    background-color: rgb(0, 255, 0);
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+}
+
+.KeepUpTime-Right {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.notification-EmailImage {
+    height: 140px;
+    position: relative;
+    right: -11px;
+    top: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.notification-sms-Images2 {
+    height: 140px;
+    position: relative;
+    right: -65px;
+    top: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.notification-voicecallImage3 {
+    height: 140px;
+    position: relative;
+    right: -115px;
+    top: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+.notification-slackImage4 {
+    height: 140px;
+    position: relative;
+    right: 69px;
+    top: 190px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.notification-discordImage5 {
+    height: 140px;
+    position: relative;
+    right: 15px;
+    top: 190px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.notification-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.notification-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 43px;
+    line-height: 65px;
+    margin-left: 80px;
+    position: relative;
+    top: 106px;
+}
+
+.notification-your,
+.notification-Dot {
+    color: rgb(38, 170, 38);
+}
+
+.notification-Paragraph {
+    font-size: 21px;
+    color: gray;
+    margin-left: 80px;
+    position: relative;
+    top: 140px;
+}
+
+.KeepUpTime-Button {
+    display: flex;
+    margin-left: 80px;
+}
+
+.GoogleBtn {
+    height: 50px;
+    cursor: pointer;
+}
+
+.AppleBtn {
+    position: relative;
+    left: 30px;
+    height: 50px;
+    cursor: pointer;
+}
+.notification-span{
+
+}
+.KeepUpTime-Right.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }

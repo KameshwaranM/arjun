@@ -1,0 +1,118 @@
+.App {
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+body {
+    overflow-x: hidden;
+    background-color: whitesmoke;
+
+}
+
+.Keyword {
+    position: relative;
+    background-color: #001d36;
+    top: 50px;
+    width: 1800px;
+    height: 800px;
+    right: 10px;
+
+}
+
+.keyword-Leading {
+    position: relative;
+    right: 630px;
+    top: 225px;
+    font-size: 50px;
+    color: #ffffff;
+    line-height: 70px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Keyword-span {
+    color: #27c6f4;
+    margin-left: 300px;
+}
+
+.Keyword-Dot {
+    color: #27c6f4;
+}
+
+.Keyword-FreeContent {
+    position: relative;
+    top: 232px;
+    margin-right: 700px;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+}
+
+.Keyword-Total {
+    position: relative;
+    right: 576px;
+    top: 35px;
+}
+
+.wordMonitering-Button {
+    position: relative;
+    top: 300px;
+    right: 638px;
+    height: 50px;
+    width: 300px;
+    font-size: 17px;
+    background-color: #27c6f4;
+    border-radius: 50px;
+    border: none;
+    color: #0c0303;
+    cursor: pointer;
+}
+
+
+
+.Keyword-Company-Images {
+    position: relative;
+    top: 550px;
+    right: 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Keyword-Company {}
+
+.Keyword-godaddylogo {
+    width: 160px;
+    position: relative;
+    bottom: 20px;
+    right: 270px;
+
+}
+
+.Keyword-nasalogo {
+    width: 120px;
+    position: relative;
+    right: 150px;
+}
+
+.Keyword-moodyslogo {
+    width: 150px;
+    height: 40px;
+    position: relative;
+    right: 50px;
+    bottom: 19px;
+}
+
+.Keyword-ibmlogo {
+    width: 130px;
+    position: relative;
+    left: 100px;
+    bottom: 12px;
+    height: 40px;
+}
+
+.Keyword-expedialogo {
+    width: 160px;
+    height: 60px;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
+}

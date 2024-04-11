@@ -1,0 +1,83 @@
+.monitorresponse {
+    position: relative;
+    top: 230px;
+    left: 150px;
+    background-color: rgb(0, 255, 0);
+    width: 530px;
+    height: 530px;
+    border-radius: 50%;
+}
+
+.monitorresponse-Right {
+    position: relative;
+    bottom: 35px;
+    left: 10px;
+}
+
+.monitorresponse-presence {
+    height: 335px;
+    position: relative;
+    left: 38px;
+    top: 120px;
+    border-radius: 10px;
+    background-color: white;
+    width: 600px;
+    padding: 40px;
+}
+
+.monitorresponse-All {
+    position: relative;
+    left: 690px;
+    bottom: 340px;
+}
+
+.monitorresponse-Heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 45px;
+    line-height: 65px;
+    margin-left: -30px;
+    top: 45px;
+    position: relative;
+}
+
+.monitorresponse-Dot {
+    color: rgb(38, 170, 38);
+    position: relative;
+    bottom: 21px;
+}
+
+.monitorresponse-Paragraph {
+    font-size: 23px;
+    color: gray;
+    margin-left: 80px;
+    position: relative;
+    bottom: -40px;
+    margin-right: 30px;
+}
+.monitorresponse-or{
+    
+    color: rgb(38, 170, 38);
+    position: relative;
+    margin-right: -15px;
+    top: 2px;
+    
+
+}
+.monitorresponse-absence{
+    color: rgb(38, 170, 38);
+    margin-left: 30px;
+    position: relative;
+    top: -15px; 
+}
+.monitorresponse-any{
+    position: relative;
+    top: -17px;
+}
+.monitorresponse-pharse{
+    position: relative;
+    margin-left: 115px;
+    top: -20px;
+}
+.monitorresponse-presence.animate__animated.animate__fadeInUp {
+    animation-duration: 1s;
+  }
